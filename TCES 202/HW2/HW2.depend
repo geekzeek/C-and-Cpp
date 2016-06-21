@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1423506073 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw2\list_uint.c
+	<stdlib.h>
+	<stdio.h>
+	"list_uint.h"
+
+1423506073 c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw2\list_uint.h
+
+1423506073 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw2\queue.c
+	"queue.h"
+	<stdio.h>
+
+1423512425 c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw2\queue.h
+	"list_uint.h"
+	<stdlib.h>
+
+1423506073 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw2\queue_main.c
+	"queue.h"
+	<stdio.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1423088721 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw#1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"assassin_list.h"
+
+1423088717 c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw#1\assassin_list.h
+	"assassin_node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1423088718 c:\users\zeeshan\google drive\w15\ces202\codeblocks\hw#1\assassin_node.h
+
