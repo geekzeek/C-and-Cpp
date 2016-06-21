@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1429672632 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 3\student.cpp
+	"student.h"
+
+1429670408 c:\users\zeeshan\google drive\s15\tces 203\assignment 3\student.h
+	<iostream>
+	<string>
+

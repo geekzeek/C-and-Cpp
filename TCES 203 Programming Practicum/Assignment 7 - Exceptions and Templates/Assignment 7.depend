@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1433225414 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 7\node.cpp
+	"node.h"
+
+1433225414 c:\users\zeeshan\google drive\s15\tces 203\assignment 7\node.h
+	<iostream>
+	<string>
+
+1433225414 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 7\queue.cpp
+	"queue.h"
+
+1433225414 c:\users\zeeshan\google drive\s15\tces 203\assignment 7\queue.h
+	<iostream>
+	"list.h"
+
+1433225751 c:\users\zeeshan\google drive\s15\tces 203\assignment 7\list.h
+	"node.h"
+
+1433225414 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 7\stack.cpp
+	"stack.h"
+
+1433225414 c:\users\zeeshan\google drive\s15\tces 203\assignment 7\stack.h
+	<iostream>
+	"list.h"
+
+1433225414 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 7\list.cpp
+	"list.h"
+
+1433225738 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 7\main.cpp
+	<iostream>
+	"list.h"
+	"stack.h"
+	"queue.h"
+

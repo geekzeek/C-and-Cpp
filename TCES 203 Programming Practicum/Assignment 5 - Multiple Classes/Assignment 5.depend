@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1430953167 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 5\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"GroceryList.h"
+
+1430949120 c:\users\zeeshan\google drive\s15\tces 203\assignment 5\groceryitemorder.h
+	<cstring>
+
+1430953167 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 5\grocerylist.cpp
+	"GroceryList.h"
+
+1430949120 source:c:\users\zeeshan\google drive\s15\tces 203\assignment 5\groceryitemorder.cpp
+	"GroceryItemOrder.h"
+
+1430949304 c:\users\zeeshan\google drive\s15\tces 203\assignment 5\grocerylist.h
+	"GroceryItemOrder.h"
+	<cstring>
+
