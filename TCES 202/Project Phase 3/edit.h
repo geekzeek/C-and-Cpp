@@ -1,0 +1,24 @@
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edit.h
+
+This is currently a stub file for the statpac program, edit file selection
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#ifndef EDIT_H
+#define EDIT_H
+
+#include "file.h"
+#include "global.h"
+#include "screen_utils.h"
+
+// prototypes
+int edit_main_menu (void);
+int edit_menu (void);
+void print_edit_menu (void);
+
+int edit_add(void);
+int edit_edit();
+int edit_delete();
+
+#endif

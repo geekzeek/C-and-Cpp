@@ -1,0 +1,44 @@
+MAN page main_menu() 
+
+NAME statpac:main_menu()
+
+
+SYNOPSIS  
+	#include "statpac.h"
+       	Prints the main menu of options on the screen and prompts users for actions.
+
+DESCRIPTION 
+	Controls the printing to screen of the main menu and prompting for user input. When the user
+	makes a selection, the function acts as a dispatcher to call the appropriate sub menu function.
+	The main menu, printed on the next to bottom line of the screen is as follows:
+	
+	Main Menu: 1) File, 2) Edit, 3) Search, 4) Compute, 5) Report, 6) Exit
+	Please choose an option: _
+	
+	The last line is to prompt the user for which selection they choose.
+	
+	An alternate approach would center the menu choices in columnar fashion like this:
+	
+				StatPac Main Menu
+				
+			      1)           File
+			      2)           Edit
+			      3)           Search
+			      4)           Compute
+			      5)           Report
+			      6)           Exit
+		
+		Please choose an option: _
+       
+PARAMETERS
+	None
+	
+EXAMPLE
+	None
+
+RETURNS
+	0 if normal termination
+	1 if a fatal error is trapped and handled
+
+SEE ALSO
+	file_menu(), edit_menu(), search_menu(), view_menu(), compute_menu(), report_menu()

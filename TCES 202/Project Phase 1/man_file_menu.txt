@@ -1,0 +1,43 @@
+MAN page main_menu() 
+
+NAME file:main_menu()
+
+
+SYNOPSIS  
+	#include "file.h"
+       	Prints the file main menu of options on the screen and prompts users for actions.
+
+DESCRIPTION 
+	Controls the printing to screen of the file menu and prompting for user input. When the user
+	makes a selection, the function acts as a dispatcher to call the appropriate sub menu function.
+	The file menu, printed on the next to bottom line of the screen is as follows:
+	
+	File Menu: 1) New, 2) Open, 3) Rename, 4) Copy, 5) Print, 6) Delete, 7) Exit
+	Please choose an option: _
+	
+	The last line is to prompt the user for which selection they choose.
+	
+	An alternate approach would center the menu choices in columnar fashion like this:
+	
+				StatPac File Menu
+				
+			      1)           New
+			      2)           Open
+			      3)           Rename
+			      4)           Copy
+			      5)           Print
+			      6)           Delete
+			      7)           Exit
+		
+		Please choose an option: _
+       
+PARAMETERS
+	None
+	
+EXAMPLE
+	None
+
+RETURNS
+	0 if normal termination
+	1 if a fatal error is trapped and handled
+

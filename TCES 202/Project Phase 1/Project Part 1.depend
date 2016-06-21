@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1423073214 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"global.h"
+	"screen_utils.h"
+	"file.h"
+
+1423073214 c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\global.h
+
+1423073214 c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\screen_utils.h
+	<stdio.h>
+
+1423073214 c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\file.h
+
+1423073214 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\screen_utils.c
+	"screen_utils.h"
+
+1423073214 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\statpac.c
+	"statpac.h"
+
+1423073214 c:\users\zeeshan\google drive\w15\ces202\codeblocks\project part 1\statpac.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+	"screen_utils.h"
+	"file.h"
+

@@ -1,0 +1,19 @@
+MAN page statpac.c 
+
+NAME statpac (executable)
+
+
+SYNOPSIS  
+	#include "statpac.h"
+       	Controls the application of the StatPac program
+
+DESCRIPTION 
+	Contains the main(), main_menu(), and several helper functions for the menu
+	
+      
+RETURNS
+	0 if normal termination
+	1 if a fatal error is trapped and handled
+
+SEE ALSO
+	main_menu()

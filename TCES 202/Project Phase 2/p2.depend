@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1423855032 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"global.h"
+	"screen_utils.h"
+	"file.h"
+
+1424492014 c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\global.h
+
+1423855032 c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\screen_utils.h
+	<stdio.h>
+
+1423855032 c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\file.h
+
+1423855032 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\screen_utils.c
+	"screen_utils.h"
+
+1423855032 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\statpac.c
+	"statpac.h"
+
+1423855032 c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\statpac.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+	"screen_utils.h"
+	"file.h"
+	"edit.h"
+
+1423855032 c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\edit.h
+
+1424474957 source:c:\users\zeeshan\google drive\w15\ces202\codeblocks\p2\edit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+	"edit.h"
+	"file.h"
+	"screen_utils.h"
+
